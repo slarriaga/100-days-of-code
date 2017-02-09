@@ -4,7 +4,7 @@
 
 Day 1: Feburary 9 2017
 
-Today's Progress: Joined the challenge.Finishing up Basic Javascript on freeCodecamp.
+Today's Progress: Joined the challenge.Finishing up Basic Javascript on freeCodecamp. Did some testing on sourcetree while connected to github.
 
 Thoughts: Struggling with case/else/if scenarios, trying not to get myself frustrated, making sure to take breaks and let my head rest.
 
