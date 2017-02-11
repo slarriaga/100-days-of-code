@@ -1,7 +1,5 @@
 # 100 Days Of Code - Log
 
-100 Days Of Code - Log
-
 ### Day 1: February 9 2017
 
 Today's Progress: Joined the challenge.Finishing up Basic Javascript on freeCodecamp. Did some testing on sourcetree while connected to github.
