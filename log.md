@@ -2,7 +2,7 @@
 
 100 Days Of Code - Log
 
-# Day 1: February 9 2017
+### Day 1: February 9 2017
 
 Today's Progress: Joined the challenge.Finishing up Basic Javascript on freeCodecamp. Did some testing on sourcetree while connected to github.
 
@@ -10,7 +10,7 @@ Thoughts: Struggling with case/else/if scenarios, trying not to get myself frust
 
 Link to work: [https://www.freecodecamp.com/slarriaga]
 
-# Day 2: February 10 2017
+### Day 2: February 10 2017
 
 Today's Progress: Completely finished the Basic Javascript section from freeCodecamp.
 
