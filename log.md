@@ -17,3 +17,11 @@ Thoughts: I'll be honest that I'm still very confused, took me 3 hours to finish
 Deciding if I should stick with Github desktop or sourcetree
 
 Link to work: [https://www.freecodecamp.com/slarriaga]
+
+### Day 3: February 11 2017
+
+Today's Progress: Completely finished Object Oriented and Functional Programming section at freecodecamp. Did first algorithim scripting demo.
+
+Thoughts: Javascript is starting to clear a bit for me now, algorithim demos helping me put it all together. Added more notes to github notebook about where to keep focus.
+
+Link to work: [https://www.freecodecamp.com/slarriaga]
