@@ -28,7 +28,7 @@ Link to work: [https://www.freecodecamp.com/slarriaga]
 
 ### Day 4: February 14 2017
 
-Today's Progress: Created simple HTML page with CSS to test a simple Javascript function.
+Today's Progress: Created HTML page to test a simple Javascript function.
 
 Thoughts: Working from scratch like this works better for learning JS I feel, I'll continue to create demo's each day if I can to learn JS and keep my HTML/CSS skills up to date too. 
 
